@@ -1,0 +1,10 @@
+# IDE
+.idea
+*.iml
+
+# Local
+*.local*
+
+# Compiled
+*.hi
+*.o
